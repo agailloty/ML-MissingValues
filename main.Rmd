@@ -1,0 +1,16 @@
+---
+title: "Boosting pour l'imputation des données manquantes"
+author: 
+- "Axel-Cleris GAILLOTY"
+- "Songui Hamed KONE"
+date: "06/05/2020"
+output: 
+  bookdown::gitbook:
+    output_dir: "/docs"
+---
+
+# Introduction 
+
+# Les données 
+
+# Les algorithmes
